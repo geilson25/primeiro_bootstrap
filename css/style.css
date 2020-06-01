@@ -1,0 +1,28 @@
+body {
+	font-family: inherit;
+}
+
+footer {
+	background: brown;
+	color: white;
+}
+#quem_sou {
+	background: #585858;
+	color: white;
+}
+
+#servicos {
+	background: #585858;
+	color: black;
+}
+
+.navbar {
+	background-color: brown;
+}
+
+.margin {
+	padding: 50px 10px; 
+}
+.parceiros {
+	background-color: brown;
+}
